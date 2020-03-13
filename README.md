@@ -4,10 +4,10 @@
 >>由于微信对外部链接内容规范比较严格，所以可能一不小心就会被判定为是违反内容规范的，或被同行恶意举报投诉之类的。那么此时就要用到微信域名检测接口，实时检测域名的状态，实时查询域名是否被微信拦截，从而才可以防患于未然，不影响推广。下面分享微信域名检测API接口，是采用微信官方接口打造，并有第三方协作支持，可以实时检测微信域名安全，有异常及时通知，非常稳定，准确率达99.9999%。需要可以联系VX:mkapi001，QQ:1401806571
 
 #### 使用说明
-###### 接口地址：[http://www.monkeyapi.com/](http://www.monkeyapi.com/)
-###### 请求方式：http get/post
-###### 返回格式：json
-###### 请求示例：[http://api.monkeyapi.com?appkey=appkey&url=www.baidu.com](http://api.monkeyapi.com?appkey=appkey&url=www.baidu.com)
+###### 接口地址：`http://www.monkeyapi.com/`
+###### 请求方式：`http get/post`
+###### 返回格式：`json`
+###### 请求示例：`http://api.monkeyapi.com?appkey=appkey&url=www.baidu.com`
 ##### 1、在线使用 
 > 将请求示例地址中的`http://www.baidu.com`换成你需要检测的域名（带不带`http://`都可以），这里可以是域名，也可以是链接，然后复制完整接口地址前往浏览器粘贴打开即可返回结果。这里需要一个appkey，需要的可以登陆猴子数据官网获取
 #####   2、请求接口
